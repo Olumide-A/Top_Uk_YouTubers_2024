@@ -1,7 +1,7 @@
 # Data Portfolio: Top UK Youtubers 2024 
 
 
-![powerbi-animated-diagram](assets/images/Data Transformation GIF.mp4)
+![powerbi-animated-diagram](assets/images/Data transformation GIF.gif)
 
 
 
