@@ -345,6 +345,8 @@ HAVING
 ## Results
 
 - What does the dashboard look like?
+- [View Interactive Dashboard Here](https://app.powerbi.com/reportEmbed?reportId=f47febb4-5220-4ce5-bacd-12b2dd7c0839&autoAuth=true&ctid=de8a0b10-628d-4121-a17e-67f8c1f23ff3)
+
 
 ![Power BI Dashboard](assets/images/Youtube dashboard snipeshot.png)
 
